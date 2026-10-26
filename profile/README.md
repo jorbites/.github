@@ -36,7 +36,7 @@ The Jorbites platform is built as an open, scalable microservices ecosystem:
 | **[content](https://github.com/jorbites/content)** | Centralized content repository for blogs, events, challenges, images & badges with Git CMS | Sveltia CMS, GitHub Actions, Sharp, Gemini AI |
 | **[badge_forge](https://github.com/jorbush/badge_forge)** | High-performance calculation engine for user badges, streaks, and achievements | Rust |
 | **[jorbites-notifier](https://github.com/jorbush/jorbites-notifier)** | Real-time push and email notification service with FIFO queue | Go |
-| **[tagatoni](https://github.com/jorbush/tagatoni)** | Autonomous background agent for recipe auditing, tagging, and SEO enrichment | Rust |
+| **[tagatoni](https://github.com/jorbites/tagatoni)** | Autonomous background agent for recipe auditing, tagging, and SEO enrichment | Rust |
 | **[pantry_keeper](https://github.com/jorbites/pantry_keeper)** | Automated scheduled database backup and data integrity monitor | Python |
 | **[paltin-dash](https://github.com/jorbush/paltin-dash)** | Fun 3D endless runner video game starring Paltín the avocado mascot | React, Three.js / Canvas |
 | **[jorbites-scripts](https://github.com/jorbites/jorbites-scripts)** | CLI admin tool for database management, user badges, and maintenance | Go |
